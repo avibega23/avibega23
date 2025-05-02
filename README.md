@@ -7,7 +7,7 @@
 
 - 👯 I’m Intrested In **CS Fundamentals,Web Developement,Research**
 
-- 👨‍💻 All of my projects are available at [avibega.vercel.app](avibega.vercel.app)
+- 👨‍💻 All of my projects are available at [avibega.vercel.app](https://avibega.vercel.app/)
 
 - 💬 Ask me about **Algorithms**
 
